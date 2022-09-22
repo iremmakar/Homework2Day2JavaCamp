@@ -2,16 +2,16 @@ package classes;
 
 public class CustomerManager {
 	public void add() {
-		System.out.println("Müşteri eklendi.");
+		System.out.println("Customer added.");
 	}
 	
 	public void remove() {
-		System.out.println("Müşteri silindi.");
+		System.out.println("Customer deleted.");
 	}
 
 	
 	public void update() {
-		System.out.println("Müşteri güncellendi.");
+		System.out.println("Customer uploaded.");
 	}
 
 

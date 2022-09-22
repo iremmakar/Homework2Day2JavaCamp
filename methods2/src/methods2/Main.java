@@ -15,15 +15,15 @@ public class Main {
 	}
 	
 	public static void add() {
-		System.out.println("Eklendi");
+		System.out.println("Added");
 	}
 	
 	public static void delete() {
-		System.out.println("Silindi");
+		System.out.println("Deleted");
 	}
 	
 	public static void update() {
-		System.out.println("Güncellendi");
+		System.out.println("Updated");
 	}
 	
 	public static int toAdd(int number1, int number2) {
